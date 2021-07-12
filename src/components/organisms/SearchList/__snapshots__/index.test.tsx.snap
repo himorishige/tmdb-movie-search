@@ -1,0 +1,1611 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Organisms/SearchList 正しくレンダリングされている 1`] = `
+Array [
+  <div
+    className="css-1si99zw"
+  >
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/588228"
+              onClick={[Function]}
+            >
+              <img
+                alt="トゥモロー･ウォー"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/588228"
+              onClick={[Function]}
+            >
+              トゥモロー･ウォー
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年06月30日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/591273"
+              onClick={[Function]}
+            >
+              <img
+                alt="フィアー・ストリート Part 1: 1994"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/591273"
+              onClick={[Function]}
+            >
+              フィアー・ストリート Part 1: 1994
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年07月02日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/520763"
+              onClick={[Function]}
+            >
+              <img
+                alt="A Quiet Place Part II"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/520763"
+              onClick={[Function]}
+            >
+              A Quiet Place Part II
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年05月21日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/459151"
+              onClick={[Function]}
+            >
+              <img
+                alt="ボス・ベイビー ファミリー・ミッション"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/459151"
+              onClick={[Function]}
+            >
+              ボス・ベイビー ファミリー・ミッション
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年07月01日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/649409"
+              onClick={[Function]}
+            >
+              <img
+                alt="No Sudden Move"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/649409"
+              onClick={[Function]}
+            >
+              No Sudden Move
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年06月24日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/522478"
+              onClick={[Function]}
+            >
+              <img
+                alt="ピーターラビット2 バーナバスの誘惑"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/522478"
+              onClick={[Function]}
+            >
+              ピーターラビット2 バーナバスの誘惑
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年03月25日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/672741"
+              onClick={[Function]}
+            >
+              <img
+                alt="Till Death"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/672741"
+              onClick={[Function]}
+            >
+              Till Death
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年07月01日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/604360"
+              onClick={[Function]}
+            >
+              <img
+                alt="제8일의 밤"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/604360"
+              onClick={[Function]}
+            >
+              제8일의 밤
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年07月02日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/522931"
+              onClick={[Function]}
+            >
+              <img
+                alt="Hitman's Wife's Bodyguard"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/522931"
+              onClick={[Function]}
+            >
+              Hitman's Wife's Bodyguard
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年06月14日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/739542"
+              onClick={[Function]}
+            >
+              <img
+                alt="America: The Motion Picture"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/739542"
+              onClick={[Function]}
+            >
+              America: The Motion Picture
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年06月30日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/508943"
+              onClick={[Function]}
+            >
+              <img
+                alt="あの夏のルカ"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/508943"
+              onClick={[Function]}
+            >
+              あの夏のルカ
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年06月17日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/385128"
+              onClick={[Function]}
+            >
+              <img
+                alt="F9"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/385128"
+              onClick={[Function]}
+            >
+              F9
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年05月19日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/646207"
+              onClick={[Function]}
+            >
+              <img
+                alt="The Ice Road"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/646207"
+              onClick={[Function]}
+            >
+              The Ice Road
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年06月24日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/800497"
+              onClick={[Function]}
+            >
+              <img
+                alt="Werewolves Within"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/800497"
+              onClick={[Function]}
+            >
+              Werewolves Within
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年06月25日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/460465"
+              onClick={[Function]}
+            >
+              <img
+                alt="モータルコンバット"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/460465"
+              onClick={[Function]}
+            >
+              モータルコンバット
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年04月07日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/653024"
+              onClick={[Function]}
+            >
+              <img
+                alt="The God Committee"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/653024"
+              onClick={[Function]}
+            >
+              The God Committee
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年07月02日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/695969"
+              onClick={[Function]}
+            >
+              <img
+                alt="हसीन दिलरुबा"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/695969"
+              onClick={[Function]}
+            >
+              हसीन दिलरुबा
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年07月02日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/497698"
+              onClick={[Function]}
+            >
+              <img
+                alt="ブラック・ウィドウ"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/497698"
+              onClick={[Function]}
+            >
+              ブラック・ウィドウ
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年07月07日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/423108"
+              onClick={[Function]}
+            >
+              <img
+                alt="死霊館 悪魔のせいなら、無罪。"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/423108"
+              onClick={[Function]}
+            >
+              死霊館 悪魔のせいなら、無罪。
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2021年05月25日
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-0"
+    >
+      <div
+        className="css-dvxtzn"
+      >
+        <div
+          className="css-0"
+        >
+          <div
+            className="css-79elbk"
+          >
+            <div
+              className="css-n0d1fk"
+            >
+              <button
+                aria-label="remove FavoriteList"
+                className="chakra-button css-1lppsyo"
+                data-testid="add-favorites-button"
+                onClick={[Function]}
+                type="button"
+              >
+                <svg
+                  aria-hidden={true}
+                  fill="currentColor"
+                  focusable={false}
+                  fontSize="1rem"
+                  height="1em"
+                  stroke="currentColor"
+                  strokeWidth="0"
+                  style={
+                    Object {
+                      "color": undefined,
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/458576"
+              onClick={[Function]}
+            >
+              <img
+                alt="モンスターハンター"
+                className="chakra-image__placeholder css-1435m0h"
+                src="/assets/no-image.jpg"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-9elzxb"
+        >
+          <h2
+            className="chakra-heading css-1eam21a"
+          >
+            <a
+              className="chakra-link css-f4h6uy"
+              href="/movie/458576"
+              onClick={[Function]}
+            >
+              モンスターハンター
+            </a>
+          </h2>
+          <p
+            className="chakra-text css-0"
+          >
+            2020年12月03日
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <span />,
+]
+`;

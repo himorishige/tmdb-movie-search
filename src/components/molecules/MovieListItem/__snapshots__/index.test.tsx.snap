@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Molecules/MovieListItem 正しくレンダリングされている 1`] = `
+Array [
+  <div
+    className="css-0"
+  >
+    <div
+      className="css-dvxtzn"
+    >
+      <div
+        className="css-0"
+      >
+        <div
+          className="css-79elbk"
+        >
+          <div
+            className="css-n0d1fk"
+          >
+            <button
+              aria-label="remove FavoriteList"
+              className="chakra-button css-1lppsyo"
+              data-testid="add-favorites-button"
+              onClick={[Function]}
+              type="button"
+            >
+              <svg
+                aria-hidden={true}
+                fill="currentColor"
+                focusable={false}
+                fontSize="1rem"
+                height="1em"
+                stroke="currentColor"
+                strokeWidth="0"
+                style={
+                  Object {
+                    "color": undefined,
+                  }
+                }
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                />
+              </svg>
+            </button>
+          </div>
+          <a
+            className="chakra-link css-f4h6uy"
+            href="/movie/588228"
+            onClick={[Function]}
+          >
+            <img
+              alt="トゥモロー･ウォー"
+              className="chakra-image__placeholder css-1435m0h"
+              src="/assets/no-image.jpg"
+            />
+          </a>
+        </div>
+      </div>
+      <div
+        className="css-9elzxb"
+      >
+        <h2
+          className="chakra-heading css-1eam21a"
+        >
+          <a
+            className="chakra-link css-f4h6uy"
+            href="/movie/588228"
+            onClick={[Function]}
+          >
+            トゥモロー･ウォー
+          </a>
+        </h2>
+        <p
+          className="chakra-text css-0"
+        >
+          2021年06月30日
+        </p>
+      </div>
+    </div>
+  </div>,
+  <span />,
+]
+`;

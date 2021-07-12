@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Organisms/Footer 正しくレンダリングされている 1`] = `
+<div
+  className="css-1mttay7"
+>
+  <p
+    className="chakra-text css-kbn7if"
+  >
+    copyright 2021 ©someOneElse
+  </p>
+</div>
+`;

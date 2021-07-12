@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Organisms/Header 正しくレンダリングされている 1`] = `
+Array [
+  <div
+    className="css-1tp0brz"
+  >
+    <div
+      className="chakra-container css-1xo1xlh"
+    >
+      <div
+        className="css-1ofqig9"
+      >
+        <div
+          className="css-1lekzkb"
+        >
+          <a
+            className="chakra-heading css-1s7rbqn"
+            href="/"
+            onClick={[Function]}
+          >
+            TMDb Search
+          </a>
+          <div
+            className="css-wt5l11"
+          >
+            <a
+              href="/mypage"
+              onClick={[Function]}
+            >
+              <svg
+                className="chakra-icon css-19aatzn"
+                data-testid="heart-icon"
+                fill="currentColor"
+                focusable={false}
+                height="1em"
+                stroke="currentColor"
+                strokeWidth="0"
+                style={
+                  Object {
+                    "color": undefined,
+                  }
+                }
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+                />
+              </svg>
+            </a>
+          </div>
+        </div>
+        <div
+          className="css-17bmav7"
+        >
+          <div
+            className="css-0"
+          >
+            <form
+              onSubmit={[Function]}
+            >
+              <div
+                className="css-k008qs"
+              >
+                <input
+                  className="chakra-input css-ykzfd5"
+                  data-testid="input"
+                  defaultValue=""
+                  disabled={false}
+                  enterKeyHint="search"
+                  name="keyword"
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  onFocus={[Function]}
+                />
+                <button
+                  className="chakra-button css-2b4k24"
+                  disabled={false}
+                  type="submit"
+                >
+                  検索
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <span />,
+]
+`;

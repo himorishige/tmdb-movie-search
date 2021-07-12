@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Organisms/SearchArea 正しくレンダリングされている 1`] = `
+Array [
+  <div
+    className="css-0"
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <div
+        className="css-k008qs"
+      >
+        <input
+          className="chakra-input css-ykzfd5"
+          data-testid="input"
+          defaultValue=""
+          disabled={false}
+          enterKeyHint="search"
+          name="keyword"
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+        />
+        <button
+          className="chakra-button css-2b4k24"
+          disabled={false}
+          type="submit"
+        >
+          検索
+        </button>
+      </div>
+    </form>
+  </div>,
+  <span />,
+]
+`;

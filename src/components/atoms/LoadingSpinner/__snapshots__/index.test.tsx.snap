@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Atoms/LoadingSpinner 正しくレンダリングされている 1`] = `
+<div
+  className="css-gmuwbf"
+>
+  <div
+    className="css-0"
+  >
+    <div
+      className="chakra-spinner css-u4uvb9"
+    >
+      <span
+        className="css-f8n5zr"
+      >
+        Loading...
+      </span>
+    </div>
+  </div>
+</div>
+`;
