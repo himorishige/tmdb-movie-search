@@ -2,6 +2,8 @@
 
 このページは[TMDb](https://www.themoviedb.org/)のAPIを利用した映画検索のWebアプリケーションのリポジトリです。
 
+![注目の映画一覧___TMDb_Search](https://user-images.githubusercontent.com/71954454/125216126-25dded00-e2f8-11eb-8c4f-9f8820b5c1a2.png)
+
 ## 利用技術
 
 - React
